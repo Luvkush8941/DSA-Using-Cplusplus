@@ -202,7 +202,7 @@ Let's say we have a graph having two components C1 and C2 i.e graph is disconnec
 ---------------------                       |  7 --> 5  |                | 7 ---> true |
    ^                                        |  8 --> 6  |                | 8 ---> true |
    |                                        |           |                |             |
- Retuen true                                -------------                ---------------
+ Return true                                -------------                ---------------
 
          
           
